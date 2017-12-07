@@ -4,7 +4,7 @@ Just applying : [https://realpython.com/blog/python/face-detection-in-python-usi
 
 ![](readme.png)
 
-* Run `source ./scripts/CreatVenv.sh
+* Run `source ./scripts/CreatVenv.sh`
 * `python main.py haarcascade_frontalface_default.xml`
 
 > Running using Python3.x
